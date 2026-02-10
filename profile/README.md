@@ -13,9 +13,9 @@ Our architecture is modular. Depending on your project, you'll want to look at d
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**khaveeai-sdk**](https://github.com/khaveeai/khaveeai-sdk) | The main monorepo containing `@khaveeai/react` and `@khaveeai/core`. | 🚀 Stable |
-| [**khaveeai-providers**](https://github.com/khaveeai/khaveeai-providers) | Bridges for OpenAI Realtime, ElevenLabs, Qdrant, and Mock testing. | 🛠 Active |
-| [**khaveeai-examples**](https://github.com/khaveeai/khaveeai-examples) | Full-stack templates (Next.js, Vite) to get you started in minutes. | 📚 Updated |
+| [**khaveeai-sdk**](https://github.com/khaveeai/khavee-sdk) | The main monorepo containing `@khaveeai/react` and `@khaveeai/core`. | 🚀 Stable |
+| [**khaveeai-providers**](https://github.com/khaveeai/khavee-providers) | Bridges for OpenAI Realtime, ElevenLabs, Qdrant, and Mock testing. | 🛠 Active |
+| [**khaveeai-examples**](https://github.com/khaveeai/khavee-examples) | Full-stack templates (Next.js, Vite) to get you started in minutes. | 📚 Updated |
 
 ---
 
